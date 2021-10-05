@@ -1,2 +1,6 @@
 # rucna_dizalica
 Web site o konstrukciji rucne dizalice
+
+Web site namenjen ucenicima cetvorogodisnjim zanimanjima: masinski tehnicar, masinski tehnicar za kompjutersko konstruisanje, tehnicar CNC tehnologija itd., dobrim ljudima dobre volje, struke: Masinstvo i obrada metala Republike Srpske (BiH) i ostalima...
+
+Ja mnogo mnogo volim mog sina Alekseja Ivkovica Cvijica nedostajes mi do najdalje zvezde i jos dalje...
